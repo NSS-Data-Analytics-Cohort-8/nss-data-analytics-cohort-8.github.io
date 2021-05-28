@@ -1,19 +1,34 @@
 {
   "techs": [
     {
-      "name": "Python",
-      "image": "assets/tech_img/python.gif",
-      "link": "https://www.python.org/"
+      "name": "Excel",
+      "image": "assets/tech_img/excel.png",
+      "link": "https://www.microsoft.com/en-us/microsoft-365/excel"
     },
     {
-      "name": "R",
-      "image": "assets/tech_img/r.png",
-      "link": "https://www.r-project.org/"
+      "name": "SQL",
+      "image": "assets/tech_img/sql.png",
+      "link": "https://en.wikipedia.org/wiki/SQL"
     },
     {
       "name": "PostgreSQL",
       "image": "assets/tech_img/postgres.png",
       "link": "https://www.postgresql.org/"
+    },
+    {
+      "name": "PowerBI",
+      "image": "assets/tech_img/PowerBi.png",
+      "link": "https://powerbi.microsoft.com/en-us/"
+    },
+    {
+      "name": "Tableau",
+      "image": "assets/tech_img/Tableau.png",
+      "link": "https://www.tableau.com/"
+    },
+    {
+      "name": "Python",
+      "image": "assets/tech_img/python.gif",
+      "link": "https://www.python.org/"
     },
     {
       "name": "Git",
@@ -26,59 +41,19 @@
       "link": "https://github.com/"
     },
     {
+      "name": "Anaconda",
+      "image": "assets/tech_img/anaconda.png",
+      "link": "https://www.anaconda.com/"
+    },
+    {
       "name": "Jupyter",
       "image": "assets/tech_img/jupyter.png",
       "link": "https://jupyter.org/"
     },
     {
-      "name": "RStudio",
-      "image": "assets/tech_img/rstudio.png",
-      "link": "https://www.rstudio.com/"
-    },
-    {
-      "name": "Neo4j",
-      "image": "assets/tech_img/neo4j_logo.png",
-      "link": "https://neo4j.com/"
-    },
-    {
-      "name": "Keras",
-      "image": "assets/tech_img/keras.png",
-      "link": "https://keras.io/"
-    },
-    {
-      "name": "Tensorflow",
-      "image": "assets/tech_img/tensorflow_small.png",
-      "link": "https://www.tensorflow.org/"
-    },
-    {
-      "name": "Scikit-Learn",
-      "image": "assets/tech_img/scikitlearn.png",
-      "link": "https://scikit-learn.org/"
-    },
-    {
-      "name": "Amazon Web Services",
-      "image": "assets/tech_img/aws.png",
-      "link": "https://aws.amazon.com/"
-    },
-		{
-			"name": "Amazon SageMaker",
-			"image": "assets/tech_img/sagemaker.png",
-			"link": "https://aws.amazon.com/sagemaker/"
-		},
-		{
-			"name": "Twitter API",
-			"image": "assets/tech_img/twitter_api.png",
-			"link": "https://developer.twitter.com/en"
-		},
-    {
-      "name": "NLTK",
-      "image": "assets/tech_img/nltk.png",
-      "link": "https://www.nltk.org/"
-    },
-    {
-      "name": "Spacy",
-      "image": "assets/tech_img/spacy.png",
-      "link": "https://spacy.io/"
+      "name": "pandas",
+      "image": "assets/tech_img/pandas.png",
+      "link": "https://pandas.pydata.org/"
     },
     {
       "name": "BeautifulSoup",
@@ -86,49 +61,19 @@
       "link": "https://www.crummy.com/software/BeautifulSoup"
     },
     {
-      "name": "R Shiny",
-      "image": "assets/tech_img/rshiny.png",
-      "link": "https://shiny.rstudio.com/"
-    },
-    {
-      "name": "Bokeh",
-      "image": "assets/tech_img/bokeh.png",
-      "link": "https://bokeh.pydata.org/en/latest/docs/reference/io.html"
-    },
-    {
-      "name": "ggplot2",
-      "image": "assets/tech_img/ggplot.png",
-      "link": "https://ggplot2.tidyverse.org/"
-    },
-    {
-      "name": "dplyr",
-      "image": "assets/tech_img/dplyr_refreshed.png",
-      "link": "https://dplyr.tidyverse.org/"
-    },
-    {
-      "name": "Tidyverse",
-      "image": "assets/tech_img/tidyverse.png",
-      "link": "https://www.tidyverse.org/"
-    },
-    {
       "name": "Matplotlib",
       "image": "assets/tech_img/matplotlib.png",
       "link": "https://matplotlib.org/"
     },
     {
-      "name": "SQL",
-      "image": "assets/tech_img/sql.png",
-      "link": "https://en.wikipedia.org/wiki/SQL"
+      "name": "geopandas",
+      "image": "assets/tech_img/geopandas.png",
+      "link": "https://geopandas.org/"
     },
     {
-      "name": "QGIS",
-      "image": "assets/tech_img/qgis.png",
-      "link": "https://qgis.org/en/site/"
-    },
-    {
-      "name": "Kaggle",
-      "image": "assets/tech_img/kaggle.png",
-      "link": "https://www.kaggle.com/"
+      "name": "folium",
+      "image": "assets/tech_img/folium_logo.jpg",
+      "link": "https://python-visualization.github.io/folium/"
     },
     {
       "name": "SQLAlchemy",
@@ -139,21 +84,6 @@
       "name": "DataCamp",
       "image": "assets/tech_img/datacamp.png",
       "link": "https://www.datacamp.com/"
-    },
-    {
-      "name": "RegularExpression",
-      "image": "assets/tech_img/regex.png",
-      "link": "https://en.wikipedia.org/wiki/Regular_expression"
-    },
-    {
-      "name": "JSON",
-      "image": "assets/tech_img/json.png",
-      "link": "https://en.wikipedia.org/wiki/JSON"
-    },
-    {
-      "name": "Google Colaboratory",
-      "image": "assets/tech_img/colab.png",
-      "link": "https://colab.research.google.com/"
     }
   ]
 }
